@@ -1,2 +1,6 @@
-# Hospital-Patient-Analytics-Dashboard
-Interactive Hospital Patient Analytics Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, KPIs, and Data Visualization.
+🏥 Hospital Patient Analytics Dashboard
+📌 Project Overview
+
+This project is an Interactive Hospital Patient Analytics Dashboard developed in Microsoft Excel.
+
+The dashboard converts raw hospital data into meaningful business insights using Pivot Tables, Pivot Charts, KPIs, Slicers, and Data Visualization.
